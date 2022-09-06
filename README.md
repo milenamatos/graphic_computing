@@ -2,6 +2,10 @@
 
 Códigos pessoais utilizados na disciplina de Computação Gráfica na UNIFESP.
 
+Tecnologias: 
+- Desenvolvido em C
+- OpenGL
+
 Instalação: 
 
 ```sudo apt-get install libglu1-mesa-dev freeglut3-dev mesa-common-dev```
